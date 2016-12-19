@@ -30,7 +30,7 @@
   * Mix up __yogurt__, __wine__, and __all the spices__ to make a uniform concoction
   * The marinade is ready to be *deployed*
 
-* Mariation
+* Marination
   * Cut up the __chicken__ (or __paneer__) into small pieces and soak them in the marinade
   * Place it in the refrigerator for 1 hr
   <p align="center"> <b>Marination</b> <br> 
